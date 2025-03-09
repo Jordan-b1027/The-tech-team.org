@@ -95,7 +95,7 @@
         <div class="menu-toggle" onclick="toggleMenu()">☰</div>
         <ul class="nav-links">
             <li><a href="index.php">Home</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="about.php">About</a></li>
             <li><a href="https://the-tech-team.org/polls/GMLSU">Mailing List Signup</a></li>
             <li><a href="sponsers.php">Sponsor Us</a></li>
             <li><a href="https://www.the-tech-team.org/hesk" class="support-portal">Support Portal</a></li>
